@@ -32,11 +32,6 @@ A complete Streamlit application for automated Exploratory Data Analysis (EDA) w
 - Actionable recommendations for cleaning & feature engineering
 - Powered by Google Gemini Flash 2.5 for faster responses
 
-## 🌐 Live Demo
-
-**Try the app online:**
-👉 [https://eda-automate-agent-prakhar.streamlit.app/](https://eda-automate-agent-prakhar.streamlit.app/)
-
 ## 🚀 Quick Start
 
 ### 1️⃣ Install Dependencies
