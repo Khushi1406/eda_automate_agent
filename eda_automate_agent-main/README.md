@@ -1,6 +1,9 @@
 # 🔍 Automated EDA + LLM Insights Analyzer
+
+A Streamlit-based application for automated Exploratory Data Analysis (EDA) with AI-powered insights using the EURI API.
+
+## 🔗 Live Demo
 https://edaautomateagent-khushi.streamlit.app/
-A complete Streamlit application for automated Exploratory Data Analysis (EDA) with AI-powered insights using EURI API.
 
 ## 📋 Features
 
